@@ -3,6 +3,7 @@ Leap Motion Jam Entry Instructions &amp; Issue Tracking
 
 # Info
 Happy Little Painter is Leap Motion Painter application prototype, submitted for the Leap Motion Jam 2015 competition.
+[Leap Motion Controller](https://www.leapmotion.com/) is required!
 
 # Leap Motion Settings
 - [x] Tool Tracking *This must be enabled to use brush in game!
@@ -17,7 +18,7 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 - ESC = Close app
 
 # Download
-- (link is coming soon)
+- PC/Windows version : (link is coming soon)
 
 # FAQ
 - Can I use multiple brushes (tools)? : Not supported in this version (it works, but will have issues on the drawing)
