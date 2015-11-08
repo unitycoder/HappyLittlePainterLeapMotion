@@ -18,6 +18,7 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 - Move brush to color palette to mix current color
 - Move brush to "New Image" button on top right to clear painting
 - ESC = Close app
+- Note: Put sounds on the speakers, game has couple sound effects
 
 
 # Download
