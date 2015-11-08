@@ -1,6 +1,8 @@
 # HappyLittlePainterLeapMotion
 Leap Motion Jam Entry Instructions &amp; Issue Tracking
 
+![gif](https://raw.githubusercontent.com/unitycoder/GitImageDump/517b4b8899b5132290e065818ec4919f86c035fc/gifs/happylittlepainter_3.gif)
+
 # Info
 Happy Little Painter is Leap Motion Painter application prototype, submitted for the Leap Motion Jam 2015 competition.
 [Leap Motion Controller](https://www.leapmotion.com/) is required!
