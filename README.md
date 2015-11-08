@@ -21,7 +21,7 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 
 
 # Download
-- PC/Windows version : (link is coming soon)
+- PC/Windows version : http://itch.io/jam/leapmotion3djam/rate/42579
 
 # FAQ
 - Can I use multiple brushes (tools)? : Not supported in this version (it works, but will have issues on the drawing)
