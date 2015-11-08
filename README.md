@@ -28,6 +28,7 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 - I have a feature request / bug report.. : Feel free to post them as [issues](https://github.com/unitycoder/HappyLittlePainterLeapMotion/issues) in this repository
 
 # Future Plans
+- Option to use hand tracking instead of tool tracking (and brush is in the hand)
 - Add different brushes & painting knives
 - Add wet canvas simulation (mixing colors)
 - Add brush pressure force (less force = less paint applier)
