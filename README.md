@@ -10,12 +10,13 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 - [x] Hand Tracking *Optional
 
 # Instructions
-- Start the program
+- Start the program *Use full screen & 16:9 or 16:10 aspect ratio resolution
 - After the title text fades out, you can start painting
 - Use pencil, chopstick or other leap detected tool to use brush
 - Move brush to color palette to mix current color
 - Move brush to "New Image" button on top right to clear painting
 - ESC = Close app
+
 
 # Download
 - PC/Windows version : (link is coming soon)
@@ -35,3 +36,6 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 - Add support for multiple simultaneous brushes
 - Optional: Display color names on selection
 - Saving images or submitting to online gallery
+
+# Website
+- http://unitycoder.com/blog/2015/11/09/leapmotionjam-happy-little-painter/
