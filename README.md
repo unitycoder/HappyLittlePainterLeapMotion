@@ -21,6 +21,7 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 
 # FAQ
 - Can I use multiple brushes (tools)? : Not supported in this version (it works, but will have issues on the drawing)
+- I have a feature request / bug report.. : Feel free to post them as [issues](https://github.com/unitycoder/HappyLittlePainterLeapMotion/issues) in this repository
 
 # Future Plans
 - Add different brushes & painting knives
@@ -31,3 +32,5 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 - Oculus VR version
 - Optional: Lock palette into left hand
 - Add support for multiple simultaneous brushes
+- Optional: Display color names on selection
+- Saving images or submitting to online gallery
