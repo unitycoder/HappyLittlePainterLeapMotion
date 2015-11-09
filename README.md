@@ -8,8 +8,8 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 [Leap Motion Controller](https://www.leapmotion.com/) is required!
 
 # Leap Motion Settings
-- [x] Tool Tracking *This must be enabled to use brush in game!
-- [x] Hand Tracking *Optional
+- [x] Tool Tracking *This must be enabled from Leap Motion Control Panel to use brush in game!
+- [x] Hand Tracking *Optional (hands are not affecting anything in game)
 
 # Instructions
 - Start the program *Use full screen & 16:9 or 16:10 aspect ratio resolution
