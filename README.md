@@ -23,13 +23,15 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 
 # Download
 - PC/Windows version : http://itch.io/jam/leapmotion3djam/rate/42579
+- Added Mac & Linux builds also, not tested
 
 # FAQ
 - Can I use multiple brushes (tools)? : Not supported in this version (it works, but will have issues on the drawing)
 - I have a feature request / bug report.. : Feel free to post them as [issues](https://github.com/unitycoder/HappyLittlePainterLeapMotion/issues) in this repository
+- Does this work with Mac or Linux? : Both builds are included, but I have not tested them..
 
 # Future Plans
-- Option to use hand tracking instead of tool tracking (and brush is in the hand)
+- Optional: Use hand tracking instead of tool tracking (and brush is in the hand)
 - Add different brushes & painting knives
 - Add wet canvas simulation (mixing colors)
 - Add brush pressure force (less force = less paint applier)
