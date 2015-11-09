@@ -29,6 +29,7 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 - Can I use multiple brushes (tools)? : Not supported in this version (it works, but will have issues on the drawing)
 - I have a feature request / bug report.. : Feel free to post them as [issues](https://github.com/unitycoder/HappyLittlePainterLeapMotion/issues) in this repository
 - Does this work with Mac or Linux? : Both builds are included, but I have not tested them..
+- What colors are on the palette? : Sap green, Midnight Black, Alizarin Crimson, Dark Sienna, Yellow Ogre, Phthalo Blue, Van Dyke Brown, Titanium White
 
 # Future Plans
 - Optional: Use hand tracking instead of tool tracking (and brush is in the hand)
