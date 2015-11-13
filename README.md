@@ -7,6 +7,10 @@ Leap Motion Jam Entry Instructions &amp; Issue Tracking
 Happy Little Painter is Leap Motion Painter application prototype, submitted for the Leap Motion Jam 2015 competition.
 [Leap Motion Controller](https://www.leapmotion.com/) is required!
 
+# Download
+- PC/Windows version : http://itch.io/jam/leapmotion3djam/rate/42579
+- Added Mac & Linux builds also, not tested
+
 # Leap Motion Settings
 - [x] Tool Tracking *This must be enabled from Leap Motion Control Panel to use brush in game!
 - [x] Hand Tracking *Optional (hands are not affecting anything in game)
@@ -20,11 +24,6 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 - ESC = Close app
 - Note: Put sounds on the speakers, game has couple sound effects
 
-
-# Download
-- PC/Windows version : http://itch.io/jam/leapmotion3djam/rate/42579
-- Added Mac & Linux builds also, not tested
- 
 # Updates
 - After this week its allowed to upload new builds, v1.1 will be added then (includes Online Gallery and Brush Color fix)
 
