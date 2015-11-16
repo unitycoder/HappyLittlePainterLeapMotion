@@ -44,7 +44,7 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 - Optional: Lock palette into left hand
 - Add support for multiple simultaneous brushes
 - Optional: Display color names on selection
-- Saving images or submitting to online gallery
+- Saving images or ~~submitting to online gallery~~ (in v1.1)
 
 # Website
 - http://unitycoder.com/blog/2015/11/09/leapmotionjam-happy-little-painter/
