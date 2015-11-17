@@ -15,6 +15,9 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 - [x] Tool Tracking *This must be enabled from Leap Motion Control Panel to use brush in game!
 - [x] Hand Tracking *Optional (hands are not affecting anything in game)
 
+# Online Gallery
+- View recent submissions at http://games.unitycoder.com/hlp/
+
 # Instructions
 - Start the program *Use full screen & 16:9 or 16:10 aspect ratio resolution
 - After the title text fades out, you can start painting
@@ -25,7 +28,7 @@ Happy Little Painter is Leap Motion Painter application prototype, submitted for
 - Note: Put sounds on the speakers, game has couple sound effects
 
 # Updates
-- After this week its allowed to upload new builds, v1.1 will be added then (includes Online Gallery and Brush Color fix)
+- V1.1 : Online Gallery, Couple bug fixes (See closed issues)
 
 # FAQ
 - Can I use multiple brushes (tools)? : Not supported in this version (it works, but will have issues on the drawing)
